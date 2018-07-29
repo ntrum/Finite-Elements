@@ -1,5 +1,6 @@
 numpy
 matplotlib
-sparse
-constants
+csr_matrix
+spsolve
+g
 display
