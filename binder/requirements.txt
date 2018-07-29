@@ -1,0 +1,4 @@
+pylab
+numpy
+matplotlib
+scipy.sparse
