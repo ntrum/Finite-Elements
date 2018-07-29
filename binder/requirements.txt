@@ -1,5 +1,5 @@
 numpy
 matplotlib
 sparse
-scipy.constants
-IPython.display
+constants
+display
