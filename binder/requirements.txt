@@ -1,6 +1,5 @@
 numpy
 matplotlib
-scipy.sparse.csr_matrix
-scipy.sparse.linalg.spsolve
-scipy.constants.g
+scipy.sparse
+scipy.constants
 IPython.display
